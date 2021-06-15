@@ -9,7 +9,7 @@ body{
 h1{
   color: #66BFBF;
   line-height: 2;
-  margin-top: 50px;
+  margin-top: 0px;
   margin: 0 auto 0 auto;
   font-size: 5.625rem; /*100 % equilave to 16px. If we want 90. 90*100/16 = 562.5px
   also 1em = 16px -> 90px = 5.625em*/
